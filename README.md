@@ -6,9 +6,9 @@
 #
 
 - 🇧🇷 Living in Maranhão - Brazil
-- 🎓 Currently studying computer science at IFMA-CAXIAS
-- 💻 Specialized in Back-end development
-- 😃 Enthusiast of personal applications of execution in server side
+- 🎓 Currently studying Computer Science at IFMA-CAXIAS
+- 💻 Specialized in Back-end Development
+- 😃 Enthusiast of personal applications of execution in Server Side
 - 🐧 Linux Heavy User
 
 #
@@ -62,6 +62,9 @@
 </p>
 
 #
+
+<h4>A programming joke: !false<br>
+it's funny because it's true 😀</h4>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/pedro_lucas_sc?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/DeamonPedro?label=Follow&style=social)
