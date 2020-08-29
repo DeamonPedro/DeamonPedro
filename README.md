@@ -63,7 +63,7 @@
 
 #
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/pedro_lucas_sc?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/DeamonPedro?label=Follow&style=social)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-13343787?logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/13343787/pedro-lucas-carneiro)](https://stackoverflow.com/users/13343787/pedro-lucas-carneiro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:pedro.lucas.root@gmail.com)
