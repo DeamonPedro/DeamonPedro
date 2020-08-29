@@ -13,7 +13,7 @@
 
 #
 
-### 🖱️&nbsp;Operating Systems
+### 🖱️&nbsp; Operating Systems
 
 <p align="center">
 <img src="https://wiki.manjaro.org/images/6/61/Deepin-logo.png" alt="deepin" width="40" height="40"/>
@@ -27,7 +27,7 @@
 
 #
 
-### 🎨&nbsp;Front-end Stack
+### 🎨&nbsp; Front-end Stack
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/>
@@ -40,7 +40,7 @@
 
 #
 
-### 🛠️&nbsp;Back-end Stack
+### 🛠️&nbsp; Back-end Stack
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
