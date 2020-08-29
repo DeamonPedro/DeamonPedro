@@ -1,5 +1,3 @@
-<img src="https://www.clker.com/cliparts/8/c/9/7/1297703094759203911bLUE-footer.svg" style=" transform: rotate(180deg);filter: grayscale(100%)" width="100%"/>
-
 <h3>Hi, I'm Pedro <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/241/waving-hand_1f44b.png" alt="android" width="30" height="30"/>,</h3>
 <p align="left">
 
