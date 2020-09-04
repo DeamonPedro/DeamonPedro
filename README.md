@@ -5,7 +5,7 @@
 
 #
 
-- 🇧🇷 Living in Maranhão - Brazil
+- 🏠 Living in Maranhão - Brazil
 - 🎓 Currently studying Computer Science at IFMA-CAXIAS
 - 💻 Specialized in Back-end Development
 - 😃 Enthusiast of personal applications of execution in Server Side
