@@ -17,7 +17,7 @@
 
 <p align="center">
 <img src="https://wiki.manjaro.org/images/6/61/Deepin-logo.png" alt="deepin" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+<img src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-7.png" alt="windows" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1200px-Manjaro-logo.svg.png" alt="manjaro" width="40" height="40"/>
 <img src="https://plus.diolinux.com.br/uploads/default/original/2X/5/5fbbe01c492a84e01ec1dc828205e06db2f0a52e.png" alt="ubuntu" width="40" height="40"/>
