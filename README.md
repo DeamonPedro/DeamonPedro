@@ -45,9 +45,9 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://aglowiditsolutions-6lohnuosd1nx.netdna-ssl.com/wp-content/uploads/2018/12/Koa.png" alt="koa" width="40" height="40"/>
-<img src="https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png" alt="socket.io" width="40" height="40"/>
+<img src="https://expressjs.com/images/favicon.png" alt="express" width="40" height="40"/>
+<img src="https://gcdn.pbrd.co/images/axsb2S2d5ntT.png?o=1" alt="koa" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="socket.io" width="40" height="40"/>
 <img src="https://image.winudf.com/v2/image1/Y29tLmZpcmV3YWxsLnNzaGNsaWVudF9pY29uXzE1NTk3NTI0NDhfMDA1/icon.png?w=170&fakeurl=1" alt="ssh" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
