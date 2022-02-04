@@ -33,10 +33,11 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/>
-<img src="https://www.celsonunes.com.br/wp-content/uploads/2018/06/Android_Studio_icon.svg_.png" alt="android-studio" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" alt="unity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/electron-67-1175035.png" alt="redux" width="40" height="40"/>
+<img src="https://www.celsonunes.com.br/wp-content/uploads/2018/06/Android_Studio_icon.svg_.png" alt="android-studio" width="40" height="40"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" alt="unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyUEdgRMkgGHbaXMK2A0Kt5FiShIMV1xvRF8DVa90FKYNe6GAGqcb9E4tgqHw1tTpCuc&usqp=CAU" alt="flutter" width="40" height="40"/>
  </p>
 
 #
