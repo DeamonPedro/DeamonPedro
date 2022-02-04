@@ -46,7 +46,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
 <img src="https://expressjs.com/images/favicon.png" alt="express" width="40" height="40"/>
-<img src="https://gcdn.pbrd.co/images/axsb2S2d5ntT.png?o=1" alt="koa" width="40" height="40"/>
+<img src="https://miro.medium.com/max/1000/1*wsKyC4fP1ZnMveBpH1o6VQ.png" alt="koa" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="socket.io" width="40" height="40"/>
 <img src="https://image.winudf.com/v2/image1/Y29tLmZpcmV3YWxsLnNzaGNsaWVudF9pY29uXzE1NTk3NTI0NDhfMDA1/icon.png?w=170&fakeurl=1" alt="ssh" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
