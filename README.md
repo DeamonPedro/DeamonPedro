@@ -61,8 +61,8 @@
 ### 🔎&nbsp; Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deamonpedro&show_icons=true&hide=stars" alt="Pedro Lucas" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deamonpedro" alt="Pedro Lucas" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deamonpedro&show_icons=true&hide=stars&theme=react&hide_border=true&count_private=true" alt="Pedro Lucas" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deamonpedro&theme=react&hide_border=true" alt="Pedro Lucas" />
 </p>
 
 #
