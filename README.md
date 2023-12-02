@@ -6,7 +6,7 @@
 #
 
 - 🏠 Living in Maranhão - Brazil
-- 🎓 Currently studying Computer Science at IFMA-CAXIAS
+- 🎓 Bachelor in Computer Science at IFMA-CAXIAS
 - 💻 Specialized in Back-end Development
 - 😃 Enthusiast of personal applications of execution in Server Side
 - 🐧 Linux Heavy User
@@ -18,9 +18,6 @@
 <p align="center">
 <img src="https://wiki.manjaro.org/images/6/61/Deepin-logo.png" alt="deepin" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1200px-Manjaro-logo.svg.png" alt="manjaro" width="40" height="40"/>
-<img src="https://plus.diolinux.com.br/uploads/default/original/2X/5/5fbbe01c492a84e01ec1dc828205e06db2f0a52e.png" alt="ubuntu" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/8239ced0b920d302347be142662f6f6deb98b71a/687474703a2f2f692e696d6775722e636f6d2f50526276674c392e6a7067" alt="mint" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
 </p>
 
