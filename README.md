@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" height="30"/>
 </h1>
 
-<h3 align="left">Open source enthusiast, passionate about real-time server-side technologies and back-end applications — studying Artificial Intelligence and Data Science.</h3>
+<h3 align="left">Back-end dev who likes building real-time, server-side stuff. Into open source, and currently digging into AI and Data Science.</h3>
 
 ---
 
